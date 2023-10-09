@@ -2194,11 +2194,10 @@ pre .id {
 
 .article {
     margin: 30px;
-    position: relative;
     border: 1px solid #ddd;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
-    background: #fff;
+    background: rgba(255,255,255,.5);
     transition: all .2s ease-in
 }
 
